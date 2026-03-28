@@ -1,0 +1,16 @@
+type: edu
+custom_name: Welcome to the battlefield!
+files:
+  - name: src/tictactoe/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/123/stages/654/implement#comment
+status: Unchecked
+feedback:
+  message: Please update your SDK to version 23. <a href="open_module_settings">Open
+    Project Settings</a>.
+  time: "Sat, 28 Mar 2026 17:33:02 UTC"
+record: -1
